@@ -1,2 +1,0 @@
-# vectormap
-http://jvectormap.com/
